@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Run the following command to train the neural network:
 
 ```bash
-python train_model.py
+python main.py
 ```
 
 ## Evaluating the Model
